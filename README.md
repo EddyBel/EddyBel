@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Rangel</h1>
-### Web, mobile and artificial intelligence developer
-
+<h3>Web, mobile and artificial intelligence developer</h3>
 <p align="center">
   <img src="./Front-1.jpg" alt="front">
 </p>
