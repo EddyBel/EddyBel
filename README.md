@@ -44,17 +44,19 @@
   <img alt="ElectronJs" src="https://img.shields.io/badge/-ElectronJs-000?style=flat-square&logo=electron&logoColor=white" />
 </p>
 
-<div style="display: flex; align-items: center; flex-wrap: wrap; margin: 20px;">
-  <div style="flex: 1; text-align: left; min-width: 300px; margin-right: 20px;">
-    <h3 align="left">About me</h3>
-    <p>
-      I started programming at the age of 14; my first programming language was Visual Basic. Currently, my main focus is the development of web, mobile, and artificial intelligence applications. In my GitHub account, you can find projects related to these areas, as well as some experiments and tests I've done. I hope you like them, and if you have any suggestions or comments, don't hesitate to contact me!
-    </p>
-  </div>
-  <div style="flex: 0 0 auto; text-align: right;">
-    <img src="./assets/Programmer.gif" width="100%" height="auto" style="max-width: 400px; max-height: 350px; border-radius: 30px;" />
-  </div>
-</div>
+<h3 align="left">About me</h3>
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <p>
+        I started programming at the age of 14; my first programming language was Visual Basic. Currently, my main focus is the development of web, mobile, and artificial intelligence applications. In my GitHub account, you can find projects related to these areas, as well as some experiments and tests I've done. I hope you like them, and if you have any suggestions or comments, don't hesitate to contact me!
+      </p>
+    </td>
+    <td style="text-align: right;">
+      <img src="./assets/Programmer.gif" width="400" height="350" />
+    </td>
+  </tr>
+</table>
 <!-- <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=eddybel&count_private=true&show_icons=true&hide=contribs" />
 </p> -->
