@@ -3,14 +3,14 @@
 <p align="center">
   <a href="https://github.com/EddyBel" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a> 
+  </a>
   <a href="https://twitter.com/EddyDigitalTech" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> 
+  </a>
   <a href="https://www.linkedin.com/in/eduardo-rangel-eddybel/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://eduardorangel.netlify.app/" target="_blank">
+  </a>
+  <a href="https://eddybel.vercel.app/" target="_blank">
     <img alt="My Web" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=GoogleChrome&logoColor=white" />
   </a>
 </p>
@@ -20,9 +20,9 @@
 <h3 align="center" >Things I code with</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-8DD6F9?style=flat-square&logo=CSS3&logoColor=white" /> 
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-8DD6F9?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
@@ -44,43 +44,42 @@
   <img alt="ElectronJs" src="https://img.shields.io/badge/-ElectronJs-000?style=flat-square&logo=electron&logoColor=white" />
 </p>
 
-<h3 align="center">About me</h3>
-
-<p> I started programming at the age of 14, my first programming language was Visual Basic, currently my main focus is the development of web, mobile and artificial intelligence applications. In my GitHub account you can find projects related to these areas, as well as some experiments and tests I've done, I hope you like them and if you have any suggestions or comments, don't hesitate to contact me! </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddybel&layout=compact" />
-</p>
-
+<div style="display: flex; align-items: center; flex-wrap: wrap; margin: 20px;">
+  <div style="flex: 1; text-align: left; min-width: 300px; margin-right: 20px;">
+    <h3 align="left">About me</h3>
+    <p>
+      I started programming at the age of 14; my first programming language was Visual Basic. Currently, my main focus is the development of web, mobile, and artificial intelligence applications. In my GitHub account, you can find projects related to these areas, as well as some experiments and tests I've done. I hope you like them, and if you have any suggestions or comments, don't hesitate to contact me!
+    </p>
+  </div>
+  <div style="flex: 0 0 auto; text-align: right;">
+    <img src="./assets/Programmer.gif" width="100%" height="auto" style="max-width: 400px; max-height: 350px; border-radius: 30px;" />
+  </div>
+</div>
 <!-- <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=eddybel&count_private=true&show_icons=true&hide=contribs" />
 </p> -->
 
-<p align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eddybel&theme=white" alt="mystreak"/>
-</p>
-<h3 align="center">Featured Repositories</h3>
-
-<p>In this section you can find my featured repositories, that is, those projects that I have worked on and that I consider especially relevant or interesting. Here you can explore the source code of my projects and learn more about the technologies and tools that I have used in each of them. I hope you find something you like and find useful!</p>
-
-<p align="center">
-  <a href="https://github.com/EddyBel/Implementacion-de-red-neuronal-para-la-clasificacion-de-puntos-en-un-plano" >
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eddybel&repo=Implementacion-de-red-neuronal-para-la-clasificacion-de-puntos-en-un-plano" />
-  </a>
-  <a href="https://github.com/EddyBel/My-personal-api">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eddybel&repo=My-personal-api" />
-  </a>
-</p>
-
-<p align="center">
-<a href="https://github.com/EddyBel/Portafolio-Web" >
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eddybel&repo=portafolio-web" />
-  </a>
-  <a href="https://github.com/EddyBel/Notebook" >
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eddybel&repo=Notebook" />
-  </a>
-</p>
-
----
-
-![Snake animation](https://raw.githubusercontent.com/madushadhanushka/github-readme/output/github-contribution-snake.svg)
+<!-- <p align="center" > -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eddybel&theme=white" alt="mystreak"/> -->
+<!-- </p> -->
+<!-- <h3 align="center">Featured Repositories</h3> -->
+<!--  -->
+<!-- <p>In this section you can find my featured repositories, that is, those projects that I have worked on and that I consider especially relevant or interesting. Here you can explore the source code of my projects and learn more about the technologies and tools that I have used in each of them. I hope you find something you like and find useful!</p> -->
+<!--  -->
+<!-- <p align="center"> -->
+<!--   <a href="https://github.com/EddyBel/Implementacion-de-red-neuronal-para-la-clasificacion-de-puntos-en-un-plano" > -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eddybel&repo=Implementacion-de-red-neuronal-para-la-clasificacion-de-puntos-en-un-plano" /> -->
+<!--   </a> -->
+<!--   <a href="https://github.com/EddyBel/My-personal-api"> -->
+<!--      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eddybel&repo=My-personal-api" /> -->
+<!--   </a> -->
+<!-- </p> -->
+<!--  -->
+<!-- <p align="center"> -->
+<!-- <a href="https://github.com/EddyBel/Portafolio-Web" > -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eddybel&repo=portafolio-web" /> -->
+<!--   </a> -->
+<!--   <a href="https://github.com/EddyBel/Notebook" > -->
+<!--      <img src="https://github-readme-stats.vercel.app/api/pin/?username=eddybel&repo=Notebook" /> -->
+<!--   </a> -->
+<!-- </p> -->
