@@ -45,15 +45,15 @@
 </p>
 
 <h3 align="left">About me</h3>
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; width: 70%; padding: 10px;">
       <p>
         I started programming at the age of 14; my first programming language was Visual Basic. Currently, my main focus is the development of web, mobile, and artificial intelligence applications. In my GitHub account, you can find projects related to these areas, as well as some experiments and tests I've done. I hope you like them, and if you have any suggestions or comments, don't hesitate to contact me!
       </p>
     </td>
-    <td style="text-align: right;">
-      <img src="./assets/Programmer.gif" width="400" height="350" />
+    <td style="text-align: center; width: 30%; padding: 10px;">
+      <img src="./assets/Programmer.gif" width="100%" style="max-width: 400px; height: auto;" />
     </td>
   </tr>
 </table>
